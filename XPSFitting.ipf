@@ -736,5 +736,5 @@ static Function XPS_UpdatePanelControls()
 End
 
 static Function XPS_About()
-	DoAlert 0, "XPS Fitting Package v1.0\r\rGeneral-purpose XPS peak fitting\rfor Igor Pro 9\r\rW. DeBenedetti, LANL, 2026"
+	DoAlert 0, "XPS Fitting Package v1.0\r\rGeneral-purpose XPS peak fitting\rfor Igor Pro 9\r\rW. DeBenedetti, 2026"
 End
